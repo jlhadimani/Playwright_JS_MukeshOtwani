@@ -247,3 +247,6 @@ console.log(greet()); // "Hello"
 //question 60
 //which method is automatically called when an obect is created from a class in JavaScript?
 // The constructor method is automatically called when an object of a class is created in JavaScript.
+
+// Practice the abov questions multiple times to solidify your understanding of JavaScript concepts. If you have any doubts or need further explanations on any of the questions,
+//  feel free to ask!
