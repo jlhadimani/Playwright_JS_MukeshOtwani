@@ -76,4 +76,4 @@ let emp4=new Employee("Afjal",28,70000)
 console.log(emp1.age);
 
 // ERROR: emp5 was never created, so this line will throw a ReferenceError
-emp5.getEmpDetails()
+//emp5.getEmpDetails()
